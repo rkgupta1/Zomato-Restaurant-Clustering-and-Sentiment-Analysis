@@ -77,7 +77,7 @@ The most popular cuisines are the cuisines which most of the restaurants are wil
 
 <h2> :chart_with_upwards_trend: Results</h2>
 <p>Restaurant Clustering was done in two approaches. First with just two features and then with all of them. Kmeans Clustering worked well in the first approach but as we increase the dimensions, it isn't able to distinguish the clusters hence principal component analysis was done and then clustered into 6 clusters. The similarities in the data points within the clusters were pretty great.</p>
-<img src="image/cluster1.png" alt="cluster" style="max-width:70%;">
+
 
 
 <p>Cluster 0 (Purple) - The restaurants in cluster 0 have mostly continental and fast foods available with them. The average rating is 3.42 and the average cost is 942 INR which includes an outlier of cost 2500 INR and a median cost of 600 INR. This means the restaurants are basically cheap in nature in this cluster beside one.
@@ -91,7 +91,7 @@ Cluster 3 (Green) - The restaurants in cluster 3 have all exotic cuisines availa
 Cluster 4 (Yellow) - The restaurants in cluster 4 are basically small food joints, bakeries, and cafes. The average rating is 3.14 and the average cost is 406 INR.
 
 Cluster 5 (Black) - The restaurants in cluster 5 have popular cuisines available with them including North Indian, Chinese, and especially Hyderabadi. The average rating is 3.24 the average cost is 674 INR. These restaurants are casual dining restaurants with lower per-person costs and ratings than cluster 2.</p>
-<img src="image/cluster2.png" alt="cluster" style="max-width:70%;">
+
 
 <p>In the business problem, predicting the negative sentiments correctly is really important but is more important for the models to reduce the number of false positives. False positives indicate that the reviews were actually negative but they were categorized as positive and this will lead to missing a complaint to work on.</p>
 
