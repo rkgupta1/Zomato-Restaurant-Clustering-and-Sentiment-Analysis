@@ -2,7 +2,7 @@
   <img src="image\food.png" alt="Food Logo.png" width="280px" height="140px">
 </p>
 <h1 align="center"> Zomato Restaurant Clustering and Sentiment Analysis </h1>
-<h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
 
 <p align="center"> 
 </p>
