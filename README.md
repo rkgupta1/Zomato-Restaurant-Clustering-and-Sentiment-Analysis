@@ -22,7 +22,7 @@ As a result, the purpose of this study is to analyze Zomato restaurant data in H
 <p>This project contains an executable file, a technical document and a presentation as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>Zomato_Restaurant_Clustering_and_Sentiment_Analysis_Vithika_Karan.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations, clustering and sentiment analysis.</li>
+  <li><b>Zomato_Restaurant_Clustering_and_Sentiment_Analysis.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations, clustering and sentiment analysis.</li>
 </ul>
 
 <h4>Documentation:</h4>
@@ -43,14 +43,14 @@ K, for the number of centroids required in the dataset. The centroid is an imagi
 To put it another way, the K-means algorithm finds k centroids and then assigns each data point to the closest cluster while keeping the centroids as small as possible.
 The 'means' in K-means refers to the data being averaged, or determining the centroid. K means is highly vulnerable to high dimensional data. As the dimensions increase it is not able to differentiate between the clusters. Hence, a dimensionality reduction technique called Principal Component Analysis was used,
 
-<img src="image/kmeans.png" alt="Kmeans Clustering" style="max-width:60%;"></p>
+
 
 <h2> :book: Principal Component Analysis </h2>
 <p>Principal Component Analysis, or PCA, is a dimensionality-reduction approach for reducing the dimensionality of large data sets by transforming a large collection of variables into a smaller one that retains the majority of the information in the large set.
 
 Naturally, reducing the number of variables in a data collection reduces accuracy; nevertheless, the answer to dimensionality reduction is to trade a little accuracy for simplicity. Because smaller data sets are easier to study and visualize, and because machine learning algorithms can analyze data more easily and quickly with fewer variables to process. It takes and builds orthogonal principal components to explain the variance between the data in a descending order. It means, the first component will have the highest variance and then the next and so on.
 
-<img src="image/pca.png" alt="Principal Component Analysis" style="max-width:60%;"></p>
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -58,19 +58,19 @@ Naturally, reducing the number of variables in a data collection reduces accurac
 <h2> :chart_with_upwards_trend: Exploratory Data Analysis</h2>
 <p>The best restaurants in Hyderabad are AB's - Absolute Barbecues, B-Dubs, and 3B's - Buddies, Bar & Barbecue.
 The most popular cuisines are the cuisines which most of the restaurants are willing to provide. The most popular cuisines in Hyderabad are North Indian, Chinese, Continental, and Hyderabadi.</p>
-<img src="image/best.png" alt="Best restaurants" style="max-width:70%;"> 
 
-<img src="image/cuisines.png" alt="Cuisines" style="max-width:70%;">
+
+
 
 <p>Upon conducting basic cost-benefit analysis on Zomato with a few assumptions one basis of the little business understanding that could be gathered, it can be concluded that it is important to separate out the restaurants with the lowest rating in order to improve its overall customer experience. These were the restaurants with lowest rating and high price sorted in that order. Efforts should be made to advertise more and analyze the reviews, especially for these restaurants, and work on them. Mohammedia Shawarma seems to be profitable.</p>
 
-<img src="image/worst.png" alt="Worst Restaurants" style="max-width:70%;">
+
 
 <p>Critics in the Industry were identified by grouping the customers with a good number of followers who have given more reviews with constantly low ratings. Sumit, D.S, and Ram Raju are the top three critics.<p>
-<img src="image/critics.png" alt="Critics" style="max-width:70%;"> 
+
 
 <p>Looking at the words involved in the reviews of the restaurants with low ratings it can be understood that the customers didn't like the taste, had worst experience, or maybe the order packaging wasn't good. Some of these restaurants had medium-ranged prices.</p>
-<img src="image/sentiment.png" alt="Critics" style="max-width:70%;"> 
+
 
 
 
