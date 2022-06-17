@@ -102,7 +102,7 @@ Cluster 5 (Black) - The restaurants in cluster 5 have popular cuisines available
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Vithika Karan > | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
+< Rahul Gupta><Arun Kumar><Harsh Agarwal> | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
