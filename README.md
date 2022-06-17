@@ -94,7 +94,7 @@ Cluster 5 (Black) - The restaurants in cluster 5 have popular cuisines available
 <img src="image/cluster2.png" alt="cluster" style="max-width:70%;">
 
 <p>In the business problem, predicting the negative sentiments correctly is really important but is more important for the models to reduce the number of false positives. False positives indicate that the reviews were actually negative but they were categorized as positive and this will lead to missing a complaint to work on.</p>
-<img src="image/logistic.png" alt="cluster" style="max-width:40%;">
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -102,7 +102,7 @@ Cluster 5 (Black) - The restaurants in cluster 5 have popular cuisines available
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Rahul Gupta><Arun Kumar><Harsh Agarwal> | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
+< Rahul Gupta>|Harsh Agarwal  |Arun Kumar| Data Scientist(Ace Pharma) | Machine Learning Enthusiast | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
