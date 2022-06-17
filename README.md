@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="image\food.png" alt="Food Logo.png" width="280px" height="140px">
+  <https://drive.google.com/file/d/1NKghrrMwKVl6MGAlSO7ifGj8A8CBvP4B/view?usp=sharing" width="280px" height="140px">
 </p>
 <h1 align="center"> Zomato Restaurant Clustering and Sentiment Analysis </h1>
 
