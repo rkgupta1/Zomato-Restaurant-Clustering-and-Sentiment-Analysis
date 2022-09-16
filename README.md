@@ -1,6 +1,7 @@
 <p align="center"> 
   <"https://drive.google.com/file/d/1as0X6eRdY7yYrfWh-zcJEIOSrtY9XN5Y/view?usp=sharing">
-</p>
+</p>![Zomato](https://user-images.githubusercontent.com/100950560/190723998-cd095a82-447f-49a5-a8c7-e53e8d6e0a98.jpg)
+
 <h1 align="center"> Zomato Restaurant Clustering and Sentiment Analysis </h1>
 
 
